@@ -1,0 +1,160 @@
+{
+  "products":[
+   {
+     "name":"bike",
+     "black":"black",
+     "price":700,
+     "category":"sport",
+     "imgUrl":"https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=53d820e6622fadd53b8638d60f468ccd&auto=format&fit=crop&w=708&q=80"
+   },
+   {
+    "name":"bike ",
+    "color":"black with white tires",
+    "price":700,
+    "category":"sport",
+    "imgUrl":"https://images.unsplash.com/photo-1508772382388-0b8fc7f7edb5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4b270517beb964c3e6817ba19f565406&auto=format&fit=crop&w=1567&q=80"
+  },
+  {
+    "name":"skateboard",
+    "color":"black with green wheels",
+    "price":240,
+    "category":"sport",
+    "imgUrl":"https://images.unsplash.com/photo-1495361276969-f11591d57520?ixlib=rb-0.3.5&s=5eadfa09f3e6505d504c79620cd8fe09&auto=format&fit=crop&w=890&q=80"
+  },
+  
+{
+  "name":"skateboard",
+  "color":"black with white wheels",
+  "price":240,
+  "category":"sport",
+  "imgUrl":"https://images.unsplash.com/17/unsplash_52424d6a9e278_1.JPG?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8ea259d6f68390a26247db30ec73e337&auto=format&fit=crop&w=639&q=80"
+},
+  {
+    "name":"football",
+    "color":"blue and black",
+    "price":70,
+    "category":"sport",
+    "imgUrl":"https://images.unsplash.com/photo-1521731978332-9e9e714bdd20?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=778623bd3624b21b4b8f3cf99f30fb3a&auto=format&fit=crop&w=753&q=80"
+  },
+  {
+    "name":"football",
+    "color":"orange and white",
+    "price":40,
+    "category":"sport",
+    "imgUrl":"https://images.unsplash.com/photo-1516567727245-ad8c68f3ec93?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6af67e80d2f3ebab00b9747f62729fce&auto=format&fit=crop&w=387&q=80"
+  },
+  {"name":"basketball",
+   "color":"orange",
+   "price":65,
+  "category":"sport",
+  "imgUrl":"https://images.unsplash.com/photo-1521412644187-c49fa049e84d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=488b21b3046696d05e2488d3113b93ef&auto=format&fit=crop&w=334&q=80"},
+  
+{
+  "name":"boxing gloves",
+  "color":"red",
+  "price":140,
+  "category":"sport",
+  "imgUrl":"https://images.unsplash.com/photo-1509255929945-586a420363cf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1837886ce541e402e3945f937c3afe08&auto=format&fit=crop&w=601&q=80"
+},
+{
+  "name":"headphones",
+  "color":"pink",
+  "price":100,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=64a7f5e870e2c0286c20c3f8e5572927&auto=format&fit=crop&w=750&q=80"
+},
+
+{
+  "name":"headphones",
+  "color":"green",
+  "price":130,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1531861656543-37399853ce94?ixlib=rb-0.3.5&s=df954f15935216c340d0143b40a1c63c&auto=format&fit=crop&w=750&q=80"
+},
+{
+  "name":"headphones",
+  "color":"grey",
+  "price":150,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1527283232998-47d7c90ed4e4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=184dd019e263c4c477234b52e891fc1e&auto=format&fit=crop&w=750&q=80"
+},
+{
+  "name":"headphones",
+  "color":"silver",
+  "price":300,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1487215078519-e21cc028cb29?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=88d1d36d47ef07d4fb7623337e0e607e&auto=format&fit=crop&w=750&q=80"
+},
+{
+  "name":"wrist watch ",
+  "color":"black ",
+  "price":440,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1525019461548-85e61dd8e83a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c7b90da1febbbb0ff95bb3073753d623&auto=format&fit=crop&w=374&q=80"
+},
+{
+  "name":"wrist watch ",
+  "color":"light wood brown ",
+  "price":370,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1519473842123-e27f581975ab?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5a6f5e9c36f47bed9e710235e8105b76&auto=format&fit=crop&w=334&q=80"
+},
+{
+  "name":"sunglasses",
+  "color":"black ",
+  "price":370,
+  "category":"accessories",
+  "imgUrl":"https://images.unsplash.com/photo-1502929254524-5e4f51903baa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=786395c5d850dabad9e99ed243d84248&auto=format&fit=crop&w=750&q=80"
+},
+{
+  "name":"sneakers",
+  "color":"dark red",
+  "price":80,
+  "category":"shoes",
+  "imgUrl":"https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0e44599932dce6b8440e26fb91e10a69&auto=format&fit=crop&w=343&q=80"
+},
+{
+  "name":"sneakers",
+  "color":"purple",
+  "price":80,
+  "category":"shoes",
+  "imgUrl":"https://images.unsplash.com/photo-1508188239917-0fc5f653cb47?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=10bca64dc5771b62ecd98d931914c0a3&auto=format&fit=crop&w=750&q=80"
+},
+{
+  "name":"runners",
+  "color":"white",
+  "price":120,
+  "category":"shoes",
+  "imgUrl":"https://images.unsplash.com/photo-1505248254168-1de4e1abfa78?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3cce60056001b50f5021350414b1545d&auto=format&fit=crop&w=749&q=80"
+},
+{
+  "name":"t-shirt",
+  "color":"grey",
+  "price":40,
+  "category":"clothes",
+  "imgUrl":"https://images.unsplash.com/photo-1524501051031-fd148e5f0fe3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4063e54ac549b97fa8328f732f876f44&auto=format&fit=crop&w=334&q=80"
+},
+{
+  "name":"t-shirt",
+  "color":"white",
+  "price":50,
+  "category":"clothes",
+  "imgUrl":"https://images.unsplash.com/photo-1527881282197-a21087901dd0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7b508710156b57f7ee5d18ae32477488&auto=format&fit=crop&w=500&q=80"
+},
+{
+  "name":"t-shirt",
+  "color":"white",
+  "price":30,
+  "category":"clothes",
+  "imgUrl":"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=68f94557dbb840c9db2e39d1226023ec&auto=format&fit=crop&w=500&q=80"
+}
+  ]
+}
+
+{
+  "name":"jacket",
+  "color":"yellow",
+  "price":30,
+  "category":"clothes",
+  "imgUrl":"https://images.unsplash.com/photo-1508623517726-6368ca575c45?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a41af2507664eae733c3f604b67655a5&auto=format&fit=crop&w=334&q=80"
+}
